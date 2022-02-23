@@ -1,0 +1,14 @@
+name: Yakut_Grammar
+title: Yakut_Grammar
+username:
+account: tatiana-merz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5718794
+bundleId: 5610541
+url: https://tatiana-merz.shinyapps.io/Yakut_Grammar/
+when: 1645636288.78379
+lastSyncTime: 1645636288.78381
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Dict.R|test.R|test2.R|test3.R|test5.R|test7.R|www/.DS_Store
